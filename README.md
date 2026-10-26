@@ -36,4 +36,4 @@ Research exploring the integration of interpretability techniques into deep lear
 
 I'm always interested in connecting with people working in AI, software development, data analytics, and technology innovation.
 
-📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/joy-ndirangu-bcsh-b07392179) or explore my repositories here on GitHub.
+📫 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/joy-ndirangu-bcsh-b07392179) or explore my repositories here on GitHub.
