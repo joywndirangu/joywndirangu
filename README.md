@@ -24,7 +24,7 @@ I'm passionate about using technology to solve practical problems, exploring AI 
 
 ### 📌 Featured Projects
 
-🔬 **[Breast Cancer Detection & Explainable AI](YOUR_REPOSITORY_LINK)**  
+🔬 **[Breast Cancer Detection & Explainable AI](https://github.com/joywndirangu/Breast-Cancer-Detection-XAI)**  
 Research exploring the integration of interpretability techniques into deep learning models for mammogram-based breast cancer detection.
 
 ### 🌱 Currently Growing
